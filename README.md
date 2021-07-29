@@ -1,1 +1,1 @@
-# e-commerce-system
+A CLI based E-Commerce System, consisting of all the operations such as order placement, payments, delivery tracker and some other useful features. Implemented using Python and MySQL-Connector-Python module
